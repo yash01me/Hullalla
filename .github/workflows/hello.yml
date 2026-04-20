@@ -34,3 +34,6 @@ jobs:
       
       - name: Check Node version
         run: node -v
+      
+      - name: Check npm version
+        run: npm -v
